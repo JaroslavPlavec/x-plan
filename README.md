@@ -31,7 +31,7 @@ This is just to show what is the date of Monday in relevant week. I.e. in CW02/2
 This is done by combination of Conditional Formating and VBA.
 
 1. In VBA, there is this code connected to the SHEET:
-```
+```vbnet
 Private Sub Worksheet_SelectionChange(ByVal Target As Range)
 Range("B1").Calculate
 End Sub
