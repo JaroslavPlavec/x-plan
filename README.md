@@ -1,6 +1,6 @@
 # X-PLAN
 
-X-PLAN is Excel 2010 template which will help you to quicly generate simple visual schedules.
+X-PLAN is Excel 2010 template which will help you quicly generate nice visual schedules.
 
 ![demo 01](https://github.com/JaroslavPlavec/x-plan/blob/media/demo01.gif)
 
