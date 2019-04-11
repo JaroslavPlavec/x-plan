@@ -1,6 +1,6 @@
 # X-PLAN
 
-X-PLAN is Excel 2010 template which will help you quicly generate nice visual schedules.
+X-PLAN is Excel 2010 template for quickly generating of nice visual schedules.
 
 ![demo 01](https://github.com/JaroslavPlavec/x-plan/blob/media/demo01.gif)
 
@@ -22,7 +22,7 @@ Calendar weeks are in format suitable for Europe. Return type is "21", which mea
 
 ### MONDAYS
 
-This is just to show what is the date of Monday in relevant week. I.e. in CW02/2019, the date of Monday is 07.01.2019.
+This is just to show what is the date of Monday in the relevant week. For example in CW02/2019, the date of Monday is 07.01.2019. You can calculate than exact date of each day in the year without looking into another calendar.
 
 
 
