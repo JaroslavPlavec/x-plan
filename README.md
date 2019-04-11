@@ -33,10 +33,10 @@ This is done by combination of Conditional Formating and VBA.
 1. In VBA, there is this code connected to the SHEET:
 ```
 Private Sub Worksheet_SelectionChange(ByVal Target As Range)
-Range("B2").Calculate
+Range("B1").Calculate
 End Sub
 ```
-2. In cell B2, there is this formula:
+2. In cell B1, there is this formula:
 
 ```
 =CELL("col")
