@@ -26,7 +26,7 @@ This is just to show what is the date of Monday in relevant week. I.e. in CW02/2
 
 
 
-### HIGHLIGHTING OF ACTUAL WEEK COLUMN
+### HIGHLIGHTING OF WEEK COLUMN (after mouse click)
 
 This is done by combination of Conditional Formating and VBA.
 
